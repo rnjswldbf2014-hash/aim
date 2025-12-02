@@ -1,0 +1,5 @@
+{
+  "name": "Copy of React Aim Trainer",
+  "description": "A simple aim training game built with React and Tailwind CSS. Click the targets as fast as you can before time runs out.",
+  "requestFramePermissions": []
+}
